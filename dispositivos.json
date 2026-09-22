@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "M001",
+        "nombre": "Logitech G203",
+        "cantidad": 3,
+        "estado": "Bueno",
+        "ubicacion": "Almacén"
+    },
+    {
+        "codigo": "M002",
+        "nombre": "Razer DeathAdder Essential",
+        "cantidad": 2,
+        "estado": "Bueno",
+        "ubicacion": "Laboratorio"
+    },
+    {
+        "codigo": "M003",
+        "nombre": "Logitech G502",
+        "cantidad": 4,
+        "estado": "Regular",
+        "ubicacion": "Almacén"
+    },
+    {
+        "codigo": "M004",
+        "nombre": "Razer Viper Mini",
+        "cantidad": 1,
+        "estado": "En reparación",
+        "ubicacion": "Taller"
+    },
+    {
+        "codigo": "M005",
+        "nombre": "HyperX Pulsefire Core",
+        "cantidad": 2,
+        "estado": "Bueno",
+        "ubicacion": "Laboratorio"
+    }
+]
